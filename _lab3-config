@@ -1,0 +1,3 @@
+defaultServerPort 4747
+serverRootDirectory ../www/
+handlingMultipleRequestMethod fork

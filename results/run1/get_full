@@ -1,0 +1,17 @@
+HTTP/1.0 200 OK
+Date: Thu, 10 Oct 2019 09:14:01 GMT
+Server: UNIX
+Last-Modified: Wed, 09 Oct 2019 15:53:13 GMT
+Content-Length: 128
+Content-Type: text/html
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title>Web Server</title>
+</head>
+
+<body>
+	<h1>This is index page</h1>
+</body>
+</html>
